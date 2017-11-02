@@ -1,1 +1,1 @@
-# Example-Site---Harmony-Yoga
+# harmonyYoga
